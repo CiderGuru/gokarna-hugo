@@ -48,12 +48,12 @@ target = 'static/images'
     {name = "bluesky", url = "https://bsky.app/profile/stablemilkingstool.co.uk"},
     {name = "x", url = "https://x.com/MonkeyOfStool"},
     {name = "youtube", url = "https://www.youtube.com/@AVeryStableMilkingStool"},
-    {name = "twitch", url = "https://www.twitch.tv/verystablemilkingstool"},
-    {name = "discord", url = "https://discord.gg/NDRWjgZkqp"},
-    {name = "reddit", url = "https://www.reddit.com/user/MilkingStool/"},
-    {name = "amazon", url = "https://www.amazon.co.uk/hz/wishlist/ls/1KXIMI7XMSWLS?ref_=wl_share"},
-    {name = "paypal", url = "https://paypal.me/JonesHoward"},
-    {name = "email", url = "mailto:stool@stablemilkingstool.co.uk"}
+ #   {name = "twitch", url = "https://www.twitch.tv/verystablemilkingstool"},
+ #   {name = "discord", url = "https://discord.gg/NDRWjgZkqp"},
+ #   {name = "reddit", url = "https://www.reddit.com/user/MilkingStool/"},
+ #   {name = "amazon", url = "https://www.amazon.co.uk/hz/wishlist/ls/1KXIMI7XMSWLS?ref_=wl_share"},
+  #  {name = "paypal", url = "https://paypal.me/JonesHoward"},
+ #   {name = "email", url = "mailto:stool@stablemilkingstool.co.uk"}
   ]
 
 [menu]
