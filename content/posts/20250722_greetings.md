@@ -1,7 +1,9 @@
 ---
 date: 2025-07-22
-# description: "New Phone, Who Dis?"
+description: "New Phone. Who Dis?"
 # image: ""
+author: '@MonkeyOfStool'
+hero_image: ../static/images/Screenshot.jpg
 post_date: 2025-07-22 15:00:00
 lastmod: 2025-07-22
 showTableOfContents: false
