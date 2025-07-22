@@ -1,15 +1,12 @@
 ---
-title: New Phone, who dis?
-description: Test post
-date: 2024-12-18
-lastmod: 2024-12-18
+title: New internet rules come into force this week
+description: New OFCOM rules
+date: 2025-07-22
+lastmod: 2025-07-22
 preview: /images/Screenshot.jpeg
 showTableOfContents: false
 tags:
-    - Hugo
-    - Static
-    - Github
-    - Netlify
+    - OFCOM
 type: post
 ---
 ![Hugo+Github+Netlify](/images/hugo-github-netlify.png 'Hugo+Github+Netlify')
