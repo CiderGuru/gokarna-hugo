@@ -12,4 +12,4 @@ type: post
 ---
 [SKY News Article](https://x.com/SkyNews/status/1947627124291998108https:/)
 
-![](assets/20250722_142116_skynews-yoti-age-checks-ofcom_6970626.png)
+
