@@ -52,7 +52,7 @@ target = 'static/images'
  #   {name = "discord", url = "https://discord.gg/NDRWjgZkqp"},
  #   {name = "reddit", url = "https://www.reddit.com/user/MilkingStool/"},
  #   {name = "amazon", url = "https://www.amazon.co.uk/hz/wishlist/ls/1KXIMI7XMSWLS?ref_=wl_share"},
-  #  {name = "paypal", url = "https://paypal.me/JonesHoward"},
+ #  {name = "paypal", url = "https://paypal.me/JonesHoward"},
  #   {name = "email", url = "mailto:stool@stablemilkingstool.co.uk"}
   ]
 
@@ -87,11 +87,11 @@ target = 'static/images'
   #  url = "https://github.com/gokarna-theme/gokarna-hugo"
   #  weight = 5
 
-  #[[menu.main]]
-  #  identifier = "buymeacoffee"
-  #  pre = "<span data-feather='coffee'></span>"
-  #  url = "https://www.buymeacoffee.com/avijitgupta"
-  #  weight = 6
+  [[menu.main]]
+    identifier = "buymeacoffee"
+    pre = "<span data-feather='coffee'></span>"
+    url = "https://buymeacoffee.com/stablestool"
+    weight = 6
 
   #[[menu.main]]
   #  identifier = "rss"
