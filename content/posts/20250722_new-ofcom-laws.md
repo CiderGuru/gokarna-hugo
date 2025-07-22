@@ -5,7 +5,7 @@ description: "UK Online Safety Act"
 post_date: 2025-07-23 16:00:00
 lastmod: 2025-07-22
 showTableOfContents: false
-# tags: ["Ofcom", "Internet". "UK".]
+tags: ["Ofcom", "Internet", "UK",]
 title: "UK Internet Laws"
 type: "post"
 ---

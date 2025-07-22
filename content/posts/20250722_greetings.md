@@ -5,7 +5,7 @@ date: 2025-07-22
 post_date: 2025-07-22 15:00:00
 lastmod: 2025-07-22
 showTableOfContents: false
-# tags: ["Blog","Hugo",]
+tags: ["Blog","Hugo",]
 title: "Good News, Everyone!"
 type: "post"
 ---
