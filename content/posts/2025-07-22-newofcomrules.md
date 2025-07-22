@@ -2,9 +2,9 @@
 title: New internet rules come into force this week
 description: New OFCOM rules
 date: 2025-07-22
-lastmod: 2025-07-22
+lastmod: 2025-07-22T14:17:52.586Z
 draft: false
-preview: assets/20250722_142439_ofcom_logo-e1595844252943-293x300.png
+preview: assets/20250722_142041_ofcom_logo-e1595844252943-293x300.png
 showTableOfContents: false
 tags:
     - OFCOM
