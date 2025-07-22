@@ -62,10 +62,6 @@
     {
       "title": "posts",
       "path": "[[workspace]]/content/posts"
-    },
-    {
-      "title": "projects",
-      "path": "[[workspace]]/content/projects"
     }
   ],
   "frontMatter.content.snippets": {
