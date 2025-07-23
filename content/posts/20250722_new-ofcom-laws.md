@@ -11,4 +11,9 @@ type: "post"
 ---
 
 [Sky News article](https://news.sky.com/story/new-internet-rules-come-into-force-this-week-heres-what-will-change-13400034?dcmp=snt-sf-twitter)
+
+[Ofcom explains](https://www.ofcom.org.uk/online-safety/protecting-children/age-checks-to-protect-children-online)  
+
+[Post Office EasyID](https://www.postoffice.co.uk/identity/easyid)  
+
 ![](/images/20250723_185501_20250722_142041_ofcom_logo-e1595844252943-293x300.png)
