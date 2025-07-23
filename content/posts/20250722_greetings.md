@@ -11,3 +11,9 @@ tags: ["Blog","Hugo",]
 title: "Good News, Everyone!"
 type: "post"
 ---
+This is my annual "*Let's finally get that Blog up and running*".
+
+Don't worry, I will get bored in a few days time.
+
+
+![](assets/20250723_185142_calendar.jpg)
