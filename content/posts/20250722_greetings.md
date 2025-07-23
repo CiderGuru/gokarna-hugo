@@ -15,5 +15,4 @@ This is my annual "*Let's finally get that Blog up and running*".
 
 Don't worry, I will get bored in a few days time.
 
-
-![](assets/20250723_185142_calendar.jpg)
+![](/images/20250723_185142_calendar.jpg)
