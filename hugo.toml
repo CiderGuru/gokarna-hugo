@@ -1,4 +1,5 @@
 baseURL = "/"
+enableGitInfo = true
 canonifyURLs = true
 defaultContentLanguage = "en"
 enableEmoji = true

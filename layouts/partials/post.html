@@ -23,11 +23,25 @@
           <small role="doc-subtitle">{{ .Description }}</small>
 	{{ end }}
 
-	{{ if $displayDate }}
-          <p class="post-date">{{ dateFormat (or .Site.Params.dateFormat "January 2, 2006") .Date}}
-           {{ if lt .Date .Lastmod }} | Updated {{ dateFormat .Site.Params.dateFormat .Lastmod }}{{ end }}
-          </p>
-	{{ end }}
+<!-- Created Date -->
+{{- $pubdate := .PublishDate.Format "02.01.2006" }}
+Created: 
+<time datetime="{{ .PublishDate }}" title="{{ .PublishDate }}">
+    {{ $pubdate }}
+</time>
+
+<!-- Last Updated Date -->
+{{- if .Lastmod }}
+    {{- $lastmod := .Lastmod.Format "02.01.2006" }}
+    {{- if ne $lastmod $pubdate }}
+        <div class="post-info-last-mod">
+            (Updated: 
+            <time datetime="{{ .Lastmod }}" title="{{ .Lastmod }}">
+                {{ $lastmod }}
+            </time>)
+        </div>
+    {{- end }}
+{{- end }}
 
         <ul class="post-tags">
           {{ range $tag := $postTags }}
