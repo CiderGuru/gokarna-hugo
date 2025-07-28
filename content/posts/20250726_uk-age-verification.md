@@ -19,11 +19,11 @@ The implimentation, however, is a total clusterfuck of silliness.
 
 2/ It was invented by the previous Governnment in 2023. The Conservsative Party.
 
-If you'e blaming the current Government, you are a very silly sausage.
+If you're blaming the current Government, you are a very silly sausage.
 
 3/ Whilst there are valid concerns about the 3rd-Parties who provide the verification service, it's misguided to blame the individual platforms, (Reddit, BlueSky, etc.), themselves for having to adhere to UK Law.
 
-4/ Becaue Elmo is a 12-yeaar-old moron, Twitter has yet to implement *any* age verification protocols, other than maintainting his moronic *Blue Tick* scam.
+4/ Because Elmo is a 12-yeaar-old moron, Twitter has yet to implement *any* age verification protocols, other than maintainting his moronic *Blue Tick* scam.
 *#BlueTickWankers*
 
 ![](/images/20250723_185501_20250722_142041_ofcom_logo-e1595844252943-293x300.png)
