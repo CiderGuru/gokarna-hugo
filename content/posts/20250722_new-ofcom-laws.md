@@ -16,4 +16,4 @@ type: "post"
 
 [Post Office EasyID](https://www.postoffice.co.uk/identity/easyid)  
 
-![](/images/20250723_185501_20250722_142041_ofcom_logo-e1595844252943-293x300.png)
+![Ofcom logo](/images/20250723_185501_20250722_142041_ofcom_logo-e1595844252943-293x300.png)

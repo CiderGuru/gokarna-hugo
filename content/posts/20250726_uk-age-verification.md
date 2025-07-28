@@ -26,4 +26,4 @@ If you're blaming the current Government, you are a very silly sausage.
 4/ Because Elmo is a 12-yeaar-old moron, Twitter has yet to implement *any* age verification protocols, other than maintainting his moronic *Blue Tick* scam.
 *#BlueTickWankers*
 
-![](/images/20250723_185501_20250722_142041_ofcom_logo-e1595844252943-293x300.png)
+![Ofcom logo](/images/20250723_185501_20250722_142041_ofcom_logo-e1595844252943-293x300.png)
