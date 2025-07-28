@@ -25,6 +25,7 @@
 
 <!-- Created Date -->
 {{- $pubdate := .PublishDate.Format "02.01.2006" }}
+<br>
 Created: 
 <time datetime="{{ .PublishDate }}" title="{{ .PublishDate }}">
     {{ $pubdate }}
@@ -36,6 +37,7 @@ Created:
     {{- $lastmod := .Lastmod.Format "02.01.2006" }}
     {{- if ne $lastmod $pubdate }}
         <div class="post-info-last-mod">
+            <br>
             (Updated: 
             <time datetime="{{ .Lastmod }}" title="{{ .Lastmod }}">
                 {{ $lastmod }}
